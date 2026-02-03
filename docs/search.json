@@ -47,19 +47,5 @@
     "title": "Oregon Health by Counties",
     "section": "Conclusion",
     "text": "Conclusion\n\n\n       fit      lwr      upr\n1 7691.385 4651.213 10731.56\n\n\nFor a county with average levels of poor physical health and suicide rates along with 13% of children living in poverty it is predicted to have approximately 7691.385 years of potential life list with a 95% prediction interval ranging from 4651.213 to 10731.56. When we compare this to the Multnomah county where they also share 13% percentage of children living in poverty and the premature death years is 7691.385 which is consistent with our model’s prediction.\nAmong the three models, the theme of childhood poverty has come up consistently as the strongest predictor of health outcome. This important information should not be overlooked when it comes to ways we can pour into the communities to promote individual health. In our first model of predicting poor mental health , childhood poverty is retained despite other variables being eliminated. This suggests this variable captures a broader and consistent effects on mental health. In the model used to predict poor physical health days, childhood poverty is again retained along with broader set of variables. This indicates that physical health is influenced by a lot of factors yet childhood poverty still retain its importance rather than disappearing and merging with the rest. Finally, it is the only statistically significant predictor in the third model predicting premature death years after using LASSO and least-squares regression. The estimated effect includes for every 1% of children living in poverty and poor physical health and suicides controlled, the number of premature death years increase by 196.30. With all that said, these results demonstrate how important it is for lawmakers to look into ways to prevent and reduce the percentage of kids currently living in poverty. This can be explained as the long-term exposure to a lot of other health predictors such as lack of access to healthy food, limited access to gym and health care providers can have a huge negative impact on the general well-being of people which becomes a generational cycle."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mandy180.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
